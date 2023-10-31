@@ -11,6 +11,7 @@
 <a href="https://www.figma.com/file/0JATDOtnDeIRTyiQSyaN3l/Miguel-%C3%81ngel-Barbosa-Cornelio?type=design&node-id=6%3A257&mode=design&t=IIVmgqVArrgUAjY6-1">Link de Figma</a>
 
 <h2>Punto 2: Diseño HTML</h2>
+<img src="./public/images/punto-2.png" alt="punto 2">
 
 <h2>Punto 3: Diseño CSS</h2>
 
