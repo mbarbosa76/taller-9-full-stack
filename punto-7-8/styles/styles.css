@@ -1,0 +1,19 @@
+nav {
+    display: flex;
+    text-align: center;
+    background-size: cover;
+    }
+
+.Inicio {
+    cursor: pointer;
+    margin: 4px 2px;
+    padding: 10px 20px;
+    background-color: blue;
+    box-shadow: none;
+}
+
+section {
+    color: white;
+    padding: 10px 25px;
+    background-color: rgb(195, 156, 231);
+}
