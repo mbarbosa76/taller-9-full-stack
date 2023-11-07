@@ -23,5 +23,5 @@
 
 .tabla tr:last-child td {
     border-bottom: 2px solid red;
-    border-style: dashed;
+    border-bottom-style: dashed;
    }
