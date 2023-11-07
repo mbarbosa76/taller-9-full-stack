@@ -1,0 +1,28 @@
+.verde {
+    color: green;
+}
+
+.red {
+    color: red;
+}
+
+.underover {
+    text-decoration: underline overline;
+}
+
+b {
+    font-size: 30px;
+}
+
+.blue {
+    color: blue;
+}
+
+u {
+    color: red;
+}
+
+p {
+    margin: 30px;
+    text-align: left;
+}
